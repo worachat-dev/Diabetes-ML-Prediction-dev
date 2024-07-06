@@ -1,4 +1,20 @@
-# Diabetes Prediction using Decision Tree Algorithm Project, 2024
+# Diabetes Prediction using Decision Tree Algorithm Project 2024
+
+## Overview
+
+The goal of this project is to predict the occurrence of diabetes in patients using a decision tree classifier. The dataset used contains various medical attributes such as glucose level, blood pressure, and age. The project involves data cleaning, visualization, model training, and evaluation.
+
+### Key Components
+
+- **Overview**: Brief introduction to the project.
+- **Features**: Lists the key functionalities of the notebook.
+- **Installation**: Instructions on how to set up the environment.
+- **Usage**: Steps to run the notebook.
+- **Visualizations**: Descriptions and example images of the visualizations (placeholders for where the actual images should be).
+- **Model Evaluation**: Sample outputs for model evaluation metrics.
+- **References**: Academic sources supporting the methods used.
+
+This README provides a detailed guide for users to understand, set up, and run your project while giving them insights into the visualizations and model evaluation methods used. Feel free to adjust the content or formatting to better fit your project.
 
 ## Table of Contents
 
@@ -17,22 +33,6 @@ Here's a comprehensive `README.md` file for your `Diabetes_Prediction_Decision_T
 # Diabetes Prediction using Decision Tree
 
 This project demonstrates the use of a Decision Tree Classifier to predict diabetes based on medical diagnostic measurements. It includes data exploration, multiple visualizations, and model evaluation to provide a comprehensive analysis of the dataset.
-
-## Overview
-
-The goal of this project is to predict the occurrence of diabetes in patients using a decision tree classifier. The dataset used contains various medical attributes such as glucose level, blood pressure, and age. The project involves data cleaning, visualization, model training, and evaluation.
-
-### Key Components
-
-- **Overview**: Brief introduction to the project.
-- **Features**: Lists the key functionalities of the notebook.
-- **Installation**: Instructions on how to set up the environment.
-- **Usage**: Steps to run the notebook.
-- **Visualizations**: Descriptions and example images of the visualizations (placeholders for where the actual images should be).
-- **Model Evaluation**: Sample outputs for model evaluation metrics.
-- **References**: Academic sources supporting the methods used.
-
-This README provides a detailed guide for users to understand, set up, and run your project while giving them insights into the visualizations and model evaluation methods used. Feel free to adjust the content or formatting to better fit your project.
 
 ## Features
 
