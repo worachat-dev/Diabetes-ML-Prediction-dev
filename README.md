@@ -1,5 +1,17 @@
 # Diabetes Prediction using Decision Tree Algorithm Project 2024
 
+### Key Components
+
+- **Overview**: Brief introduction to the project.
+- **Features**: Lists the key functionalities of the notebook.
+- **Installation**: Instructions on how to set up the environment.
+- **Usage**: Steps to run the notebook.
+- **Visualizations**: Descriptions and example images of the visualizations (placeholders for where the actual images should be).
+- **Model Evaluation**: Sample outputs for model evaluation metrics.
+- **References**: Academic sources supporting the methods used.
+
+This README provides a detailed guide for users to understand, set up, and run your project while giving them insights into the visualizations and model evaluation methods used. Feel free to adjust the content or formatting to better fit your project.
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -137,20 +149,6 @@ The methods and techniques used in this project are based on the following acade
 5. **Overview of Machine Learning Techniques for Medical Data**
    - Kourou, K., Exarchos, T. P., Exarchos, K. P., Karamouzis, M. V., & Fotiadis, D. I. (2015). *Machine learning applications in cancer prognosis and prediction*. Computational and Structural Biotechnology Journal, 13, 8-17.
      - **DOI**: [10.1016/j.csbj.2014.11.005](https://doi.org/10.1016/j.csbj.2014.11.005)
-
----
-
-### Key Components
-
-- **Overview**: Brief introduction to the project.
-- **Features**: Lists the key functionalities of the notebook.
-- **Installation**: Instructions on how to set up the environment.
-- **Usage**: Steps to run the notebook.
-- **Visualizations**: Descriptions and example images of the visualizations (placeholders for where the actual images should be).
-- **Model Evaluation**: Sample outputs for model evaluation metrics.
-- **References**: Academic sources supporting the methods used.
-
-This README provides a detailed guide for users to understand, set up, and run your project while giving them insights into the visualizations and model evaluation methods used. Feel free to adjust the content or formatting to better fit your project.
 
 ---
 
