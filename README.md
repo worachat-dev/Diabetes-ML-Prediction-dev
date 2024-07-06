@@ -1,5 +1,17 @@
 # Diabetes prediction using Decision Tree Algorithm Project, 2024
 
+### Key Components of the README:
+
+- **Overview**: Brief introduction to the project.
+- **Features**: Lists the key functionalities of the notebook.
+- **Installation**: Instructions on how to set up the environment.
+- **Usage**: Steps to run the notebook.
+- **Visualizations**: Descriptions and example images of the visualizations (placeholders for where the actual images should be).
+- **Model Evaluation**: Sample outputs for model evaluation metrics.
+- **References**: Academic sources supporting the methods used.
+
+This README provides a detailed guide for users to understand, set up, and run your project while giving them insights into the visualizations and model evaluation methods used. Feel free to adjust the content or formatting to better fit your project.
+
 # Dataset
 
 Here's a comprehensive `README.md` file for your `Diabetes_Prediction_Decision_Tree.ipynb` project. This README covers the project overview, requirements, instructions for running the notebook, and references to academic publications that underpin the methods used.
@@ -109,6 +121,10 @@ The model's performance is evaluated using:
    macro avg       0.76      0.74      0.75       154
 weighted avg       0.77      0.77      0.77       154
 
+## Authors
+
+- **Worachat W, Dev.** - *Game Design & Dev. 2024*
+
 ## References
 
 The methods and techniques used in this project are based on the following academic publications:
@@ -136,15 +152,3 @@ The methods and techniques used in this project are based on the following acade
 ---
 
 Feel free to contribute or report any issues. Happy analyzing!
-
-### Key Components of the README:
-
-- **Overview**: Brief introduction to the project.
-- **Features**: Lists the key functionalities of the notebook.
-- **Installation**: Instructions on how to set up the environment.
-- **Usage**: Steps to run the notebook.
-- **Visualizations**: Descriptions and example images of the visualizations (placeholders for where the actual images should be).
-- **Model Evaluation**: Sample outputs for model evaluation metrics.
-- **References**: Academic sources supporting the methods used.
-
-This README provides a detailed guide for users to understand, set up, and run your project while giving them insights into the visualizations and model evaluation methods used. Feel free to adjust the content or formatting to better fit your project.
