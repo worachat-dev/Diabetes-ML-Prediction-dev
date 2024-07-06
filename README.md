@@ -1,6 +1,6 @@
 # Diabetes prediction using Decision Tree Algorithm Project, 2024
 
-### Key Components of the README:
+### Key Components
 
 - **Overview**: Brief introduction to the project.
 - **Features**: Lists the key functionalities of the notebook.
