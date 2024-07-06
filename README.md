@@ -1,5 +1,15 @@
 # Diabetes Prediction using Decision Tree Algorithm Project 2024
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Visualizations](#visualizations)
+- [Model Evaluation](#model-evaluation)
+- [References](#references)
+
 ## Overview
 
 The goal of this project is to predict the occurrence of diabetes in patients using a decision tree classifier. The dataset used contains various medical attributes such as glucose level, blood pressure, and age. The project involves data cleaning, visualization, model training, and evaluation.
@@ -15,16 +25,6 @@ The goal of this project is to predict the occurrence of diabetes in patients us
 - **References**: Academic sources supporting the methods used.
 
 This README provides a detailed guide for users to understand, set up, and run your project while giving them insights into the visualizations and model evaluation methods used. Feel free to adjust the content or formatting to better fit your project.
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Visualizations](#visualizations)
-- [Model Evaluation](#model-evaluation)
-- [References](#references)
 
 # Dataset
 
