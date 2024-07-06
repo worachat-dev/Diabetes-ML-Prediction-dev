@@ -1,4 +1,4 @@
-# Diabetes prediction using Decision Tree Algorithm, Worachat Wannawong, Ph.D. 2024
+# Diabetes prediction using Decision Tree Algorithm Project, 2024
 
 # Dataset
 
