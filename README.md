@@ -14,18 +14,6 @@
 
 The goal of this project is to predict the occurrence of diabetes in patients using a decision tree classifier. The dataset used contains various medical attributes such as glucose level, blood pressure, and age. The project involves data cleaning, visualization, model training, and evaluation.
 
-### Key Components
-
-- **Overview**: Brief introduction to the project.
-- **Features**: Lists the key functionalities of the notebook.
-- **Installation**: Instructions on how to set up the environment.
-- **Usage**: Steps to run the notebook.
-- **Visualizations**: Descriptions and example images of the visualizations (placeholders for where the actual images should be).
-- **Model Evaluation**: Sample outputs for model evaluation metrics.
-- **References**: Academic sources supporting the methods used.
-
-This README provides a detailed guide for users to understand, set up, and run your project while giving them insights into the visualizations and model evaluation methods used. Feel free to adjust the content or formatting to better fit your project.
-
 # Dataset
 
 Here's a comprehensive `README.md` file for your `Diabetes_Prediction_Decision_Tree.ipynb` project. This README covers the project overview, requirements, instructions for running the notebook, and references to academic publications that underpin the methods used.
@@ -149,6 +137,20 @@ The methods and techniques used in this project are based on the following acade
 5. **Overview of Machine Learning Techniques for Medical Data**
    - Kourou, K., Exarchos, T. P., Exarchos, K. P., Karamouzis, M. V., & Fotiadis, D. I. (2015). *Machine learning applications in cancer prognosis and prediction*. Computational and Structural Biotechnology Journal, 13, 8-17.
      - **DOI**: [10.1016/j.csbj.2014.11.005](https://doi.org/10.1016/j.csbj.2014.11.005)
+
+---
+
+### Key Components
+
+- **Overview**: Brief introduction to the project.
+- **Features**: Lists the key functionalities of the notebook.
+- **Installation**: Instructions on how to set up the environment.
+- **Usage**: Steps to run the notebook.
+- **Visualizations**: Descriptions and example images of the visualizations (placeholders for where the actual images should be).
+- **Model Evaluation**: Sample outputs for model evaluation metrics.
+- **References**: Academic sources supporting the methods used.
+
+This README provides a detailed guide for users to understand, set up, and run your project while giving them insights into the visualizations and model evaluation methods used. Feel free to adjust the content or formatting to better fit your project.
 
 ---
 
