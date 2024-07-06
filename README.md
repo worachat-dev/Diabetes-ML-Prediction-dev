@@ -16,7 +16,7 @@ This README provides a detailed guide for users to understand, set up, and run y
 
 Here's a comprehensive `README.md` file for your `Diabetes_Prediction_Decision_Tree.ipynb` project. This README covers the project overview, requirements, instructions for running the notebook, and references to academic publications that underpin the methods used.
 
-# Diabetes Prediction Using Decision Tree
+# Diabetes Prediction using Decision Tree
 
 This project demonstrates the use of a Decision Tree Classifier to predict diabetes based on medical diagnostic measurements. It includes data exploration, multiple visualizations, and model evaluation to provide a comprehensive analysis of the dataset.
 
