@@ -108,7 +108,6 @@ The model's performance is evaluated using:
     accuracy                           0.77       154
    macro avg       0.76      0.74      0.75       154
 weighted avg       0.77      0.77      0.77       154
-  ```
 
 ## References
 
